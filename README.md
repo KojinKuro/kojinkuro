@@ -1,4 +1,4 @@
-### Well met traveller 👋
+### 👋
 
 My name is Charles Kwang! I'm an 27 year old software engineer based in LA, Califronia. I have a background in Illustration & Computer Science and a history of overengineering solutions to problems no one asked. Some fun things about me are that I love the fantasy genre, videogames and playing boardgames with my friends. Obviously I love DnD, my favorite videogame is Persona 4 Golden and if anyone wants to play something on TTS hit me up!
 
