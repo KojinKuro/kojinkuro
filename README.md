@@ -1,8 +1,22 @@
-### 👋
+<img src='https://i.ibb.co/NFrcfyK/test.jpg' width='100%' height='300' style='object-fit: cover;'>
+
+<p align="center">
+  <strong>Website</strong> |
+  <strong>Github</strong> |
+  <strong>LinkedIn</strong> |
+  <strong>Email</strong>
+</p>
+
+<p align="center">
+  <img height='150' src='https://github-readme-stats.vercel.app/api?username=kojinkuro'>
+  <img height='150' src='https://github-readme-stats.vercel.app/api/top-langs/?username=kojinkuro&layout=compact'>
+</p>
+
+# Hey there 👋
 
 My name is Charles Kwang! I'm an 27 year old software engineer based in LA, Califronia. I have a background in Illustration & Computer Science and a history of overengineering solutions to problems no one asked. Some fun things about me are that I love the fantasy genre, videogames and playing boardgames with my friends. I love DnD, my favorite videogame is Persona 4 Golden and if anyone wants to play something on TTS hit me up!
 
-# ⚡ Technologies I Work In:
+# ⚡ Technologies
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -33,15 +47,3 @@ My name is Charles Kwang! I'm an 27 year old software engineer based in LA, Cali
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)
-
-<p align="center">
-  <img height='150' src='https://github-readme-stats.vercel.app/api?username=kojinkuro'>
-  <img height='150' src='https://github-readme-stats.vercel.app/api/top-langs/?username=kojinkuro&layout=compact'>
-</p>
-
-<p align="center">
-  <strong>Website</strong> |
-  <strong>Github</strong> |
-  <strong>LinkedIn</strong> |
-  <strong>Email</strong>
-</p>
