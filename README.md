@@ -1,4 +1,4 @@
-<img src='https://i.ibb.co/NFrcfyK/test.jpg' width='100%' height='300' style='object-fit: cover;'>
+<img src='https://i.ibb.co/NFrcfyK/test.jpg' width='100%' height='225' style='object-fit: cover;'>
 
 <p align="center">
   <strong>Website</strong> |
