@@ -12,11 +12,11 @@
   <img height='150' src='https://github-readme-stats.vercel.app/api/top-langs/?username=kojinkuro&layout=compact'>
 </p>
 
-# Hey there 👋
+## Hey there, this is Charles! 👋
 
-My name is Charles Kwang! I'm an 27 year old software engineer based in LA, Califronia. I have a background in Illustration & Computer Science and a history of overengineering solutions to problems no one asked. Some fun things about me are that I love the fantasy genre, videogames and playing boardgames with my friends. I love DnD, my favorite videogame is Persona 4 Golden and if anyone wants to play something on TTS hit me up!
+I'm an 27 year old software engineer based in LA, Califronia. I have a background in Illustration & Computer Science and a history of overengineering solutions to problems no one asked. Some fun things about me are that I love the fantasy genre, videogames and playing boardgames with my friends. I love DnD, my favorite videogame is Persona 4 Golden and if anyone wants to play something on TTS hit me up!
 
-# ⚡ Technologies
+## ⚡ Technologies
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
